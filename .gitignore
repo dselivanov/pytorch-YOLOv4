@@ -14,3 +14,5 @@ predictions.jpg
 predictions_onnx.jpg
 predictions_trt.jpg
 data/outcome
+.Rproj.user
+.DS_Store
